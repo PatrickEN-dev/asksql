@@ -45,8 +45,11 @@ const config: Config = {
           800: "#8b426c",
           900: "#6a3252",
         },
-
-        blueberry: "#07061D",
+        blueberry: {
+          300: "#323842",
+          600: "#151A2A",
+          900: "#07061D",
+        },
         backgroudn: "#030712",
         pistachio: "#D3FFCC",
         cream: "#E2DFCD",
